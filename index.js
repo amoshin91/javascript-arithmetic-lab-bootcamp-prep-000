@@ -15,5 +15,5 @@ function divide(a, b) {
 }
 
 function parseInt(a, b) {
-  return parseInt()
+  return parseInt(a = b)
 }
